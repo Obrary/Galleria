@@ -16,7 +16,7 @@ Galleria.addTheme({
     name: 'etchingx',
     version: 1.5,
     author: 'ProductGraph',
-    css: 'galleria.etchingx-1.0.0.css',
+    css: 'galleria.etchingx.css',
     defaults: {
         transition: 'slide',
         thumbCrop:  'height',
