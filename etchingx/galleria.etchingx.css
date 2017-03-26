@@ -12,7 +12,7 @@
 .galleria-theme-etchingx {
     position: relative;
     overflow: hidden;
-    background: #f5f5f5;
+    background: #707070;
 }
 .galleria-theme-etchingx img {
     -moz-user-select: none;
@@ -84,7 +84,7 @@
 .galleria-theme-etchingx .galleria-info-title {
     font: bold 12px/1.1 arial,sans-serif;
     margin: 0;
-    color: #fff;
+    color: #ebaf34;
     margin-bottom: 7px;
 }
 .galleria-theme-etchingx .galleria-info-description {
