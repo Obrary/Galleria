@@ -4,7 +4,7 @@
  * Copyright (c) 2010 - 2017 worse is better UG
  * Licensed under the MIT license
  * https://raw.github.com/worseisbetter/galleria/master/LICENSE
- * 26Mar17 4:37PM
+ * 26Mar17 8:16PM
  */
 
 #galleria-loader{height:1px!important}
@@ -76,7 +76,7 @@
     position: absolute;
 }
 .galleria-theme-etchingx .galleria-info-text {
-    background-color: #000;
+    background-color: rgba(64,64,64,0.5);
     padding: 12px;
     display: none;
     /* IE7 */ zoom:1;
