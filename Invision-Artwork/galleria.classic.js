@@ -13,10 +13,10 @@
 /*global window, jQuery, Galleria */
 
 Galleria.addTheme({
-    name: 'etchingx',
+    name: 'classic',
     version: 1.5,
-    author: 'ProductGraph',
-    css: 'galleria.etchingx.css',
+    author: 'Galleria',
+    css: 'galleria.classic.css',
     defaults: {
         transition: 'slide',
         thumbCrop:  'height',
@@ -26,7 +26,7 @@ Galleria.addTheme({
     },
     init: function(options) {
 
-        Galleria.requires(1.4, 'This version of EtchingX theme requires Galleria 1.4 or later');
+        Galleria.requires(1.4, 'This version of Classic theme requires Galleria 1.4 or later');
 
         // add some elements
         this.addElement('info-link','info-close');
